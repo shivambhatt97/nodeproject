@@ -1,12 +1,6 @@
 # Codeial (Under Development)
 Social Media Web App
 
-## Screenshots
-<p align="center">
-  <p>Home Page</p>
-  <img width="100%" height="110%" src="https://user-images.githubusercontent.com/31281299/100520660-e4635c00-31c4-11eb-8e48-b5128d361d08.jpg">
- 
-</p>
 
 ## Technologies
 Codeial uses a number of open source projects to work properly:
